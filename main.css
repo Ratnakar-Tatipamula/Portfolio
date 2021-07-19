@@ -125,6 +125,11 @@ body {
   border: none;
 }
 
+.contact-button {
+  background-color: #39db59;
+  color: #04cfb5;
+}
+
 /*end of contact form*/
 
 /*skills*/
